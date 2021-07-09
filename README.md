@@ -1,2 +1,4 @@
 # House-Pricing-Prediction
-This is an ongoing Machine Learning Project in which we can predict the house prices based on different parameters of the House
+This is a Machine Learning Project which predicts house prices based on different parameters.
+For this, I considered a dataset and applied various data processing and visualization techniques using libraries in python.
+This is a Linear Regression Model.
